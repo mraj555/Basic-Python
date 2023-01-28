@@ -23,3 +23,13 @@ c = complex(x)
 print(a)
 print(b)
 print(c)
+
+# String :- Use Single Quote(') Or Double Quote(")
+k = "John Smith"
+
+# Multiple Variable Declare with Same Value
+ca, us = "+1"
+ab = bc = "+1"
+
+# Multiple Variable Declare with Different Values
+ind, gb = "+91", "+44"
