@@ -12,6 +12,7 @@ customList.insert(3, "Shine")
 
 # For Insert Item at Last
 customList.append("Oranges")
+
 print(customList[3])
 print(customList[1:4])
 print(customList[:7])
